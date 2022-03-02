@@ -1,0 +1,6 @@
+[submodule "xarala_ssr"]
+	path = xarala_ssr
+	url = https://github.com/cbsBiram/xarala__ssr.git
+[submodule "xarala-frontend"]
+	path = xarala-frontend
+	url = https://github.com/cbsBiram/xarala-frontend.git
